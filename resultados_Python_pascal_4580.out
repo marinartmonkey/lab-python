@@ -1,0 +1,12 @@
+Ejecutando para 10^7 elementos
+[0;36m  File [0;32m~/reduc-operation.py:64[0;36m[0m
+[0;31m    a) En la siguiente celda de código del notebook3 vamos a utilizar el tipo de datos de listas para[0m
+[0m     ^[0m
+[0;31mSyntaxError[0m[0;31m:[0m unmatched ')'
+
+Ejecutando para 10^8 elementos
+[0;36m  File [0;32m~/reduc-operation.py:64[0;36m[0m
+[0;31m    a) En la siguiente celda de código del notebook3 vamos a utilizar el tipo de datos de listas para[0m
+[0m     ^[0m
+[0;31mSyntaxError[0m[0;31m:[0m unmatched ')'
+
